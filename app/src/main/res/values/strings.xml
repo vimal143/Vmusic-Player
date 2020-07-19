@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Vmusic Player</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="play_next">Play Next</string>
+    <string name="set_as_ringtone">Set as Ringtone</string>
+    <string name="song_info">Song Info</string>
+    <string name="delete">Delete</string>
+    <string name="vmusic_player">Vmusic Player</string>
+    <string name="now_playing">Now Playing</string>
+    <string name="this_is_song_name">This is Song Name</string>
+    <string name="_1_20">1:20</string>
+    <string name="developed_by_vimal_pandey">Developed By Vimal Pandey</string>
+    <string name="album">Album</string>
+    <string name="file_name">File Name</string>
+</resources>

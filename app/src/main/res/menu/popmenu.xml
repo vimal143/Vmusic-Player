@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:title="@string/set_as_ringtone"
+        android:id="@+id/Ringtone"
+        app:showAsAction="never"/>
+    <item
+        android:title="@string/song_info"
+        android:id="@+id/SonfInfo"
+        app:showAsAction="never"/>
+    <item
+        android:title="@string/delete"
+        android:id="@+id/delSong"
+        app:showAsAction="never"/>
+
+
+
+</menu>
