@@ -8,3 +8,6 @@ Main motive for developing this App is to learn the basics of Android. As I ment
 
 # ScreenShots
 
+<img src="ScreenShot/IMG_20200719_203610.jpg" height="500"> <img src="ScreenShot/IMG_20200719_203629.jpg" height="500"> <img src="ScreenShot/IMG_20200719_203558.jpg" height="500"> <img src="ScreenShot/IMG_20200719_203429.jpg" height="500">
+<img src="ScreenShot/IMG_20200719_203357.jpg" height="500">  <img src="ScreenShot/IMG_20200719_203342.jpg" height="500">
+
